@@ -1,0 +1,188 @@
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.travel__header {
+  background: url(../img/HeaderBackground.png) center no-repeat;
+}
+.travel__navigation {
+  background: #5373fd;
+}
+.travel__why {
+  background: url(../img/WhyBackground.png) center no-repeat;
+}
+.travel__steps {
+  background: #333333;
+}
+.travel__book1 {
+  background: url(../img/render-1477041_12801.png) center;
+}
+.travel__book2 {
+  background: url(../img/spain-1859434_12801.png);
+}
+.travel__whattouristsay {
+  background: url(../img/BG2.png) center no-repeat;
+}
+.travel-footer {
+  background: #000000;
+}
+
+.travel-text__verysmall {
+  padding-top: 44px;
+  padding-left: 32px;
+  padding-bottom: 16px;
+  font-family: Josefin Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+}
+.travel-text__small {
+  padding-left: 32px;
+  padding-bottom: 24px;
+  font-family: Josefin Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+}
+.travel-text__submiddle {
+  padding-top: 80px;
+  margin-bottom: 8px;
+  font-family: Josefin Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2em;
+  color: #ffffff;
+}
+.travel-text__middle {
+  padding-left: 32px;
+  padding-bottom: 16px;
+  font-family: Josefin Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.travel-text__bigger {
+  font-family: Aleo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 40px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.travel-text__bigger-last {
+  font-family: Aleo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 40px;
+  text-align: center;
+  text-transform: capitalize;
+  color: #ffffff;
+  padding-top: 120px;
+  margin-bottom: 60px;
+}
+
+.footer-text__small {
+  margin-bottom: 22px;
+  font-family: Josefin Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2em;
+  color: #ffffff;
+}
+
+.sam {
+  display: flex;
+}
+
+.travel-spain__book1 {
+  margin-top: 220px;
+  margin-bottom: 120px;
+  margin-left: 300px;
+  background: rgba(35, 35, 35, 0.9);
+}
+.travel-spain__book2 {
+  margin-top: 220px;
+  margin-bottom: 120px;
+  margin-right: 300px;
+  background: rgba(35, 35, 35, 0.9);
+}
+
+.travel-button__explores {
+  width: 213px;
+  height: 60px;
+  margin-left: 32px;
+  background: #486bfe;
+  margin-bottom: 190px;
+  font-family: Aleo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.travel-button__books {
+  width: 213px;
+  height: 60px;
+  margin-left: 32px;
+  background: #486bfe;
+  margin-bottom: 44px;
+  font-family: Aleo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.back {
+  margin-left: 300px;
+  margin-bottom: 180px;
+}
+
+.travel-footer {
+  text-align: center;
+}
+
+.travel-footer__distance {
+  margin-bottom: 80px;
+}
+.travel-footer__distance1 {
+  margin-bottom: 80px;
+  margin-left: 30px;
+}
+
+.margeningtotheright {
+  margin-top: 16px;
+  margin-left: 50px;
+}
+
+.container__why {
+  margin-top: 190px;
+  margin-left: 300px;
+}
